@@ -10,7 +10,7 @@ Deep learning model that utilizes LSTM to predict new cases of Covid 19.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-# Neural Network Model
+# Model Architecture
 ![Model](https://github.com/Nesan135/Covid_LSTM_Predictor/blob/main/src/model.png?raw=true)
 
 # Model Performance
