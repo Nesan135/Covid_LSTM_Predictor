@@ -4,7 +4,7 @@ Deep learning model that utilizes LSTM to predict new cases of Covid 19.
 
 # Results
 
-![alt text](https://github.com/Nesan135/Covid_LSTM_Predictor/blob/main/src/performance.jpg?raw=true)
+![alt text](https://github.com/Nesan135/Covid_LSTM_Predictor/blob/main/src/performance.png?raw=true)
 
 
 ## References
