@@ -9,7 +9,7 @@ Deep learning model that utilizes LSTM to predict new cases of Covid 19.
 ![Performance](https://github.com/Nesan135/Covid_LSTM_Predictor/blob/main/src/performance.png?raw=true)
 
 # Prediction vs Actual
-![Predictions](https://github.com/Nesan135/Covid_LSTM_Predictor/blob/main/src/pred%20vs%20actual.png)
+![Predictions](https://github.com/Nesan135/Covid_LSTM_Predictor/blob/main/src/prediction.png)
 
 # Tensorboard plots
 ![epoch_mape](https://github.com/Nesan135/Covid_LSTM_Predictor/blob/main/src/epoch_mape.png?raw=true)
